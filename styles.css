@@ -8,12 +8,12 @@ body {
   }
   
   a {
-    color: #FFD700;
+    color: #ff914d;
     text-decoration: none;
   }
   
   button {
-    background-color: #FFD700;
+    background-color: #ff914d;
     color: #000;
     border: none;
     padding: 10px 20px;
@@ -23,7 +23,7 @@ body {
   }
   
   button:hover {
-    background-color: #e6c200;
+    background-color: #ff914d;
   }
   
   /* Header Styles */
@@ -55,7 +55,7 @@ body {
   .logo {
     font-size: 24px;
     font-weight: bold;
-    color: #FFD700;
+    color: #ff914d;
   }
   
   nav ul {
@@ -74,7 +74,7 @@ body {
   }
   
   .connect {
-    background-color: #FFD700;
+    background-color: #ff914d;
     color: #000;
   }
   
@@ -98,7 +98,7 @@ body {
   }
   
   #hero h1 span {
-    color: #FFD700;
+    color: #ff914d;
   }
   
   #hero p {
@@ -135,7 +135,7 @@ body {
     padding-left: 50px;
   }
   #about h2 span {
-    color: yellow;
+    color: #ff914d;
   }
   
   #about h2 {
@@ -155,7 +155,7 @@ body {
   }
   
   #services h2 {
-    color: #FFD700;
+    color: #ff914d;
     font-size: 32px;
     margin-bottom: 40px;
   }
@@ -177,7 +177,7 @@ body {
   
   .service-card .icon {
     font-size: 24px;
-    color: #FFD700;
+    color: #ff914d;
     margin-bottom: 10px;
   }
   
@@ -211,7 +211,7 @@ body {
   }
   
   .contact-info h2, .contact-form h2 {
-    color: #FFD700;
+    color: #ff914d;
     font-size: 28px;
   }
   
@@ -228,7 +228,7 @@ body {
     width: 100%;
     padding: 10px;
     margin-bottom: 15px;
-    border: 1px solid #FFD700;
+    border: 1px solid #ff914d;
     border-radius: 5px;
     background-color: #fff;
     color: #000;
@@ -248,12 +248,12 @@ body {
     background-color: #000;
     padding: 20px;
     text-align: center;
-    border-top: 1px solid #FFD700;
+    border-top: 1px solid #ff914d;
   }
   
   footer .logo {
     font-size: 24px;
-    color: #FFD700;
+    color: #ff914d;
     margin-bottom: 10px;
   }
   
